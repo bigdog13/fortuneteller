@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\fortunetellerjuly.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
